@@ -1,0 +1,14 @@
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\bin\Debug\net8.0\Day4Lesson.exe
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\bin\Debug\net8.0\Day4Lesson.deps.json
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\bin\Debug\net8.0\Day4Lesson.runtimeconfig.json
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\bin\Debug\net8.0\Day4Lesson.dll
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\bin\Debug\net8.0\Day4Lesson.pdb
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\obj\Debug\net8.0\Day4Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\obj\Debug\net8.0\Day4Lesson.AssemblyInfoInputs.cache
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\obj\Debug\net8.0\Day4Lesson.AssemblyInfo.cs
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\obj\Debug\net8.0\Day4Lesson.csproj.CoreCompileInputs.cache
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\obj\Debug\net8.0\Day4Lesson.dll
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\obj\Debug\net8.0\refint\Day4Lesson.dll
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\obj\Debug\net8.0\Day4Lesson.pdb
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\obj\Debug\net8.0\Day4Lesson.genruntimeconfig.cache
+C:\Users\JKARPIAK\source\repos\Day4Lesson\Day4Lesson\obj\Debug\net8.0\ref\Day4Lesson.dll
